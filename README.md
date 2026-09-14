@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 
-This project analyzes Brazilian e-commerce order data using **SQL in MySQL Workbench** to understand customer behavior, sales trends, geographical performance, freight costs, delivery efficiency, and payment patterns.
+This project analyzes Brazilian e-commerce order data using **SQL in Google BigQuery** to understand customer behavior, sales trends, geographical performance, freight costs, delivery efficiency, and payment patterns.
 
 The objective is to transform raw e-commerce data into meaningful business insights that can support decisions related to **sales growth, customer targeting, logistics, delivery performance, and payment strategy**.
 
@@ -30,6 +30,7 @@ The analysis focuses on answering key business questions such as:
 ## 🛠️ Tools & Technologies
 
 * **SQL**
+* Google BigQuery
 * **GitHub**
 * **Data Analysis**
 * **Window Functions**
