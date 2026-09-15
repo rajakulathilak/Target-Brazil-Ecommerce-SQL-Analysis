@@ -456,6 +456,7 @@ Target_Ecommerce_Analysis/
     ├── yearly_order_trend.png
     ├── monthly_sales_trend.png
     ├── state_sales.png
+    ├── state_sales_yearwise.png
     ├── freight_analysis.png
     └── delivery_analysis.png
 ```
